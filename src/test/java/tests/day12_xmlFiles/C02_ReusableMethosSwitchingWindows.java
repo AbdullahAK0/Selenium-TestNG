@@ -21,7 +21,7 @@ public class C02_ReusableMethosSwitchingWindows {
         //● Sayfadaki textin “New Window” olduğunu doğrulayın.
         //● Bir önceki pencereye geri döndükten sonra sayfa başlığının “The Internet” olduğunu doğrulayın.
 
-        Driver.quitDriver();
+        Driver.closeDriver();
 
 
     }
