@@ -4,10 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import pages.QdPage;
 import utilities.ConfigReader;
-import utilities.Driver;
-import utilities.DriverCross;
 import utilities.TestBaseCross;
 
 public class C01_PozitifLoginTestiCross extends TestBaseCross {

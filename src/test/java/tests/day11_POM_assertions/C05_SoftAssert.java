@@ -1,7 +1,6 @@
 package tests.day11_POM_assertions;
 
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.devtools.v85.network.model.DataReceived;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 import pages.AmazonPage;
