@@ -9,7 +9,7 @@ import pages.*;
 import utilities.ConfigReader;
 import utilities.Driver;
 
-public class test1 {
+public class Q4 {
     // Kullanici https://www.iienstitu.com/en sayfasina gider
     // Login butonuna tiklar
     // Giris bilgilerini girer ve basarili sekilde giris yaptigini test eder
